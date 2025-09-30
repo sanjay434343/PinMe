@@ -1,4 +1,4 @@
-<img src="thumbnail.png" alt="Parkle Thumbnail" width="120" style="border-radius:16px;" />
+<img src="thumbnail.png" alt="Parkle Thumbnail" width="320" style="border-radius:16px;" />
 
 # Parkle
 
