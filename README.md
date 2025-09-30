@@ -1,5 +1,6 @@
-<img src="thumbnail.png" alt="Parkle Thumbnail" width="320" style="border-radius:16px;" />
-
+<div align="center">
+  <img src="thumbnail.png" alt="Parkle Thumbnail" width="320" style="border-radius:16px;" />
+</div>
 # Parkle
 
 ## Overview
