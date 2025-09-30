@@ -1,4 +1,4 @@
-![Parkle Thumbnail](thumbnail.png)
+<img src="thumbnail.png" alt="Parkle Thumbnail" width="120" style="border-radius:16px;" />
 
 # Parkle
 
