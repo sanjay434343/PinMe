@@ -1,4 +1,4 @@
-![Parkle Thumbnail](screenshots/thumbnail.png)
+![Parkle Thumbnail](thumbnail.png)
 
 # Parkle
 
